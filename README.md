@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/WebSocket-Reverb">
-          <img src="https://imgur.com/R0lL5Ca.png?w=1600" alt="Logo" width="490" height="360">
+          <img src="https://imgur.com/R0lL5Ca.png?w=1600" alt="Logo" width="790" height="4000">
     
   </a>
 
