@@ -94,7 +94,8 @@ Install dependencies
 * npm
    ```sh
     composer global require laravel/ui
-    nvm install
+
+    npm install
     ``` 
      
 ### Configure the Environment
