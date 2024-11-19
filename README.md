@@ -116,6 +116,7 @@ Install dependencies
    - Run the command:
      ```bash
      php artisan install:broadcasting
+
      composer require laravel/reverb
      ```
      
